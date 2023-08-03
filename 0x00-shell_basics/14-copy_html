@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.hyml ..
+cp -u * .html ..
